@@ -19,3 +19,5 @@ DOWNLOADER_MIDDLEWARES = {
 ITEM_PIPELINES = {
    'jobbole.pipelines.JobbolePipeline': 1,
 }
+
+#git is amzing
