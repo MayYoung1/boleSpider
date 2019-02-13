@@ -20,4 +20,4 @@ ITEM_PIPELINES = {
    'jobbole.pipelines.JobbolePipeline': 1,
 }
 
-#git is amzi
+#git is 
